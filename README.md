@@ -27,6 +27,7 @@ The purpose of this project is to use Jupyter Notebook to read raw data, cleam a
   ![scores by school spending](https://user-images.githubusercontent.com/95547517/150701199-230effa4-8f86-4535-8bda-f45694b5aa14.PNG)
 
   - Scores by school size
+  ![scores by school size](https://user-images.githubusercontent.com/95547517/150701515-138c7770-9872-4150-8627-ddcef30a1ff1.PNG)
   
   - Scores by school type
 ![scores by school type](https://user-images.githubusercontent.com/95547517/150701216-bb67b613-8a6d-4155-ab29-429b99fa6088.PNG)
