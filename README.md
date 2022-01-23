@@ -24,8 +24,12 @@ The purpose of this project is to use Jupyter Notebook to read raw data, cleam a
 - How does replacing the ninth-grade scores affect the following:
   - Math and reading scores by grade
   - Scores by school spending
+  ![scores by school spending](https://user-images.githubusercontent.com/95547517/150701199-230effa4-8f86-4535-8bda-f45694b5aa14.PNG)
+
   - Scores by school size
+  
   - Scores by school type
+![scores by school type](https://user-images.githubusercontent.com/95547517/150701216-bb67b613-8a6d-4155-ab29-429b99fa6088.PNG)
 
 ## Challenge Summary
 Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
