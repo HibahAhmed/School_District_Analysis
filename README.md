@@ -15,7 +15,11 @@ The purpose of this project is to use Jupyter Notebook to read raw data, cleam a
 ## Results
 
 - How is the district summary affected?
+![district Summary](https://user-images.githubusercontent.com/95547517/150698268-ac247c88-6fab-4ae5-8ab2-5cf2438d3b20.PNG)
+
 - How is the school summary affected?
+![school summary](https://user-images.githubusercontent.com/95547517/150698291-c8f1261c-1e23-4ed6-9f76-5873f9d65e0e.PNG)
+
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 - How does replacing the ninth-grade scores affect the following:
   - Math and reading scores by grade
