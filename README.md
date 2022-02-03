@@ -1,7 +1,7 @@
 # School_District_Analysis
 
-## Overview of Project
-The purpose of this project is to use Jupyter Notebook to read raw data, cleam and inspect data, and merge data in the process of Data Wrangling. The project focuses students math and reading scores as well as the different schools involved. The analysis results will aid the school board in making decisions based on the budgets as well as priorities. 
+## Overview 
+The purpose of this project is to use Jupyter Notebook to read raw data, clean and inspect data, and merge data in the process of Data Wrangling. The project focuses students math and reading scores as well as the different schools involved. The analysis results will aid the school board in making decisions based on the budgets as well as priorities. 
 
 ## Resources
 
